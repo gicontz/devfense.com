@@ -4,7 +4,7 @@ import './Profile.css';
 
 function Profile() {
   return (
-    <div className="Gicontz-Profile container">
+    <div className="Devfense-Profile container">
         <div className="columns">
             <div className="column photo-container is-two-fifths">
                 <img src={logo} className="profile-pic"/>

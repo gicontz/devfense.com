@@ -3,7 +3,7 @@ import './Header.css';
 
 function Header() {
   return (
-    <header className="Gicontz-Header">
+    <header className="Devfense-Header">
         <ul className="nav">
             <li><a href="#profile">Profile</a></li>
             <li><a href="#xp">Works</a></li>
