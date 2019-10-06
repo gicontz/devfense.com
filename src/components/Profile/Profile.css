@@ -1,0 +1,18 @@
+.profile-pic {
+    max-width: 200px;
+    text-align: right;
+}
+.Gicontz-Profile{
+    margin-top:30px;
+}
+.Gicontz-Profile .photo-container{
+    text-align: right;
+}
+.Gicontz-Profile p{
+    font-family: 'Ubuntu', 'Lato', sans-serif;
+}
+.Gicontz-Profile .profile-info{
+    color: #0b0c10;
+    text-align: left;
+    margin-top: 30px;
+}
