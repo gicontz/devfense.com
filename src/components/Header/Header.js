@@ -6,8 +6,8 @@ function Header() {
     <header className="Gicontz-Header">
         <ul className="nav">
             <li><a href="#profile">Profile</a></li>
-            <li><a href="#xp">Experience</a></li>
-            <li><a href="#techstack">Tech Stack</a></li>
+            <li><a href="#xp">Works</a></li>
+            <li><a href="#techstack">Technology</a></li>
             <li><a href="#socials">Socials</a></li>
             <li><a href="#blog">Blog</a></li>
         </ul>
